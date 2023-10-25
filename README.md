@@ -1,4 +1,4 @@
-# pomodoro-timer
+# Pomodoro timer
 This is a pomodoro timer app for pc.
 
 ## Getting started
@@ -9,3 +9,5 @@ Pomodoro is a methodology for having the best performance while doing a task. Th
 
 ## About the app
 This app was programmed with Python 3, using two packages: turtle and Tkinter. Tkinter helps developing a user interface, while turtle was used for user interaction. For the compilation I used PyInstaller. For further releases I'm expecting to change some of its functionality, in terms of data storage, to make a more structured database using pandas and csv.
+
+![image](https://github.com/AdonisB1219/pomodoro-timer/assets/89605756/5145b1ce-5935-4dad-8cff-67e293c2f800)
